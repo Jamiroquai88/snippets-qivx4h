@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Jamiroquai88.github.io/snippets-qivx4h/sitemap.xml
